@@ -1,0 +1,7 @@
+RUN: npm i
+RUN: node app.js
+
+"Read more" button after truncated string hit url.
+
+on clicking  post title it hits post request and check from array if title of post is inside array or not, if present return other wise show not found page.
+
